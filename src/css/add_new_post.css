@@ -1,0 +1,13 @@
+.add_area{
+    height: 400px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    background-color: #9CB4CC;
+}
+.add_area table tr td{
+    border: none;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+.add_area table tr td input[type="text"]{
+    width: 300px!important;
+}   
